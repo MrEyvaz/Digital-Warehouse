@@ -1,0 +1,419 @@
+@media screen and (max-width: 430px) {
+    .headdiv {
+        display: flex;
+        font-size: 18px;
+        align-items: center;
+        background-color: rgb(42, 37, 75);
+        color: white;
+    }
+
+    .headdiv p {
+        margin-left: 21px;
+        color: white;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    .fa-solid.fa-xmark {
+        margin-right: 10px;
+    }
+
+    .fa-solid.fa-truck-fast {
+        margin-left: 11px;
+    }
+
+    .hddiv {
+        display: none;
+    }
+
+    .head2div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .head2div2 h1 {
+        font-size: 33px;
+        margin-left: 12px;
+    }
+
+    .head2div3 i {
+        margin-left: 16px;
+    }
+
+    .head2div3 {
+        margin-right: 19px;
+    }
+
+    .hd2div {
+        display: none;
+    }
+
+    .maindiv0 img {
+        width: 100%;
+        height: 380px;
+    }
+
+    main {
+        color: rgb(42, 37, 75);
+    }
+
+    .maindiv1 {
+        margin-top: 35px;
+    }
+
+    .maindiv2 {
+        font-size: 24px;
+        margin-left: 18px;
+    }
+
+    .maindiv3 {
+        margin-left: 18px;
+        margin-top: 70px;
+    }
+
+    .maindiv3 li {
+        margin-left: -19px;
+        margin-top: 8px;
+    }
+
+    .maindiv4 {
+        margin-left: 18px;
+        margin-top: 36px;
+    }
+
+    .maindiv5 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .maindiv6 {
+        border-right: 1px solid;
+        width: 85px;
+        color: rgb(235, 232, 244);
+    }
+
+    .maindiv6 h3,
+    p {
+        color: rgb(42, 37, 75);
+    }
+
+    .maindiv7 {
+        margin-left: -44px;
+        border-right: 1px solid;
+        width: 94px;
+        color: rgb(235, 232, 244);
+    }
+
+    .maindiv7 h3,
+    p {
+        color: rgb(42, 37, 75);
+    }
+
+    .maindiv8 {
+        margin-left: -48px;
+    }
+
+    .maindiv5 {
+        margin-left: -18px;
+    }
+
+    .maindiv9 {
+        margin-left: 18px;
+        font-size: 24px;
+    }
+
+    .maindiv10 {
+        display: flex;
+        justify-content: center;
+        font-size: 21px;
+        background-color: rgb(249, 249, 249);
+        width: 90%;
+        margin-left: 21px;
+    }
+
+    .maindiv12 {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+
+    .maindiv11 p {
+        color: rgb(202, 198, 218);
+    }
+
+    .maindiv13 p {
+        color: rgb(202, 198, 218);
+    }
+
+    .maindiv14 button {
+        border: 0px;
+        margin-top: 30px;
+        padding: 18px;
+        background-color: rgb(42, 37, 75);
+        color: white;
+        font-size: 17px;
+        width: 90%;
+        margin-left: 21px;
+    }
+
+    .mdiv {
+        display: none;
+    }
+
+    .maindiv {
+        display: block;
+    }
+
+    .main2div {
+        color: rgb(42, 37, 75);
+        margin-top: 86px;
+    }
+
+    .main2div3 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .main2div6 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .main2div p {
+        font-size: 21px;
+    }
+
+    .main2div2 h1 {
+        margin-left: 15px;
+        font-size: 26px;
+    }
+
+    .main2div9 button {
+        width: 93%;
+        padding: 12px;
+        margin-left: 16px;
+        border: 0px;
+        background-color: rgb(249, 249, 249);
+        color: rgb(42, 37, 75);
+    }
+
+    .m2div {
+        display: none;
+    }
+
+    .main2div {
+        display: block;
+    }
+
+    .main3div {
+        margin-top: 86px;
+        margin-left: 27px;
+    }
+
+    .main3div1 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-truck-fast {
+        font-size: 20px;
+        margin-left: -1px;
+    }
+
+    .main3div2 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-square-check {
+        font-size: 20px;
+    }
+
+    .main3div3 {
+        margin-top: 40px;
+    }
+
+    .fa-regular.fa-credit-card {
+        font-size: 20px;
+    }
+
+    .main3div4 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-seedling {
+        font-size: 20px;
+    }
+
+    .m3div {
+        display: none;
+    }
+
+    .main3div {
+        display: block;
+    }
+
+    .main4div {
+        margin-top: 93px;
+    }
+
+    .main4div1 h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .main4div1 p {
+        margin-left: 7px;
+    }
+
+    .main4div2 {
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
+    }
+
+    .main4div2 input {
+        padding: 16px;
+        background-color: rgb(249, 249, 249);
+        border: 0px;
+        width: 50%;
+    }
+
+    .main4div2 ::placeholder {
+        color: (42, 37, 75);
+    }
+
+    .main4div2 button {
+        background-color: rgb(42, 37, 75);
+        color: white;
+        border: 0px;
+        width: 21%;
+        font-size: 14px;
+    }
+
+    .m4div {
+        display: none;
+    }
+
+    .main4div {
+        display: block;
+    }
+
+    .fa-brands.fa-facebook {
+        margin-left: 16px;
+    }
+
+    .fa-brands.fa-instagram {
+        margin-left: 16px;
+    }
+
+    .fa-brands.fa-twitter {
+        margin-left: 16px;
+    }
+
+    .fa-brands.fa-pinterest {
+        margin-left: 16px;
+    }
+
+    .main5di {
+        margin-top: 20px;
+    }
+
+    .main5div0 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .main5div1 p {
+        color: white;
+    }
+
+    .main5div {
+        background-color: rgb(42, 37, 75);
+        margin-top: 40px;
+    }
+
+    .main5div1 h1 {
+        font-size: 25px;
+        color: white;
+    }
+
+    .main5div2 {
+        color: white;
+        font-size: 20px;
+        margin-top: 18px;
+    }
+
+    .main5div2 p {
+        color: white;
+        position: relative;
+        left: -4px;
+    }
+
+    .main5divvv {
+        margin-top: 35px;
+    }
+
+    .main5div4 {
+        display: flex;
+        color: white;
+        justify-content: space-between;
+    }
+
+    .main5div li {
+        list-style: none;
+        margin-top: 7px;
+    }
+
+    .main5div5 p {
+        color: white;
+        margin-left: 35px;
+        margin-top: 48px;
+    }
+
+    .main5div6 p {
+        color: white;
+        margin-left: 23px;
+    }
+
+    .main5div6 {
+        margin-top: 31px;
+    }
+
+    .main5div6 li {
+        position: relative;
+        left: -15px;
+    }
+
+    .main5div7 p {
+        color: white;
+        position: relative;
+        top: -9px;
+    }
+
+    .main5div {
+        height: 564px;
+    }
+
+    .main5div7 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .m5div {
+        display: none;
+    }
+
+    .main5div {
+        display: block;
+    }
+
+    .m5div7 {
+        display: none;
+    }
+
+    .m5div0 {
+        display: none;
+    }
+}
